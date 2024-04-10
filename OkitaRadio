@@ -4,3 +4,6 @@ https://strm.voh.com.vn/radio/channel3/chunklist_w1936699032.m3u8
 
 #EXTINF:-1 group-title="🇻🇳 Okita" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", Okita media
 https://doitac.nekocdn.xyz/okita/index.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://static.wikia.nocookie.net/bbc/images/f/f9/BBC_Radio_1_2022.png/revision/latest?cb=20220518194552", BBC Radio 1 (Demo)
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
