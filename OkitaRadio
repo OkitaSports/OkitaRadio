@@ -14,33 +14,38 @@ https://b-nhkwlive-rj.nhkworld.jp/hls/live/2003468-b/rj-7ch/index_07.m3u8
 #EXTINF:-1 group-title="🇻🇳 Okita" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", Okita media
 https://doitac.nekocdn.xyz/okita/index.m3u8
 
-#EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://static.wikia.nocookie.net/bbc/images/f/f9/BBC_Radio_1_2022.png/revision/latest?cb=20220518194552", BBC Radio 1
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://static.wikia.nocookie.net/bbc/images/f/f9/BBC_Radio_1_2022.png/revision/latest?cb=20220518194552", BBC Radio 1
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://cdn-profiles.tunein.com/s24940/images/logog.jpg?t=857", BBC Radio 2
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://cdn-profiles.tunein.com/s24940/images/logog.jpg?t=857", BBC Radio 2
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/BBC_Radio_3_2022.svg", BBC Radio 3
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/BBC_Radio_3_2022.svg", BBC Radio 3
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p0cbjc9r.jpg", BBC Radio 4
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p0cbjc9r.jpg", BBC Radio 4
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://i.guim.co.uk/img/static/sys-images/Media/Pix/pictures/2010/4/9/1270834215728/BBC-Radio-1Xtra-logo-001.jpg?width=465&dpr=1&s=none", BBC 1Xtra
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://i.guim.co.uk/img/static/sys-images/Media/Pix/pictures/2010/4/9/1270834215728/BBC-Radio-1Xtra-logo-001.jpg?width=465&dpr=1&s=none", BBC 1Xtra
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://media.info/l/o/3/395.1655053740.png", BBC Radio Manchester
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://media.info/l/o/3/395.1655053740.png", BBC Radio Manchester
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/services/bbc_london/blocks-colour-black_1920x1080.png",BBC London
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/services/bbc_london/blocks-colour-black_1920x1080.png",BBC London
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 group-title="🇺🇸 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN
 https://aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com/v1/manifest/30ead7055f8b8e1f2f04add745f139b184df6925/production/546c7db1-9ed2-4f96-96ab-69b6afd107e8/0.m3u8
 
-#EXTINF:-1 group-title="🇺🇸 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (SV2)
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (SV2)
 https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d28abf5a10/aac_adts/96k/pri-aac_adts96-1712849145-5990-15247.aac
 
-#EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png", KISS FM UK
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png", KISS FM UK
 https://s.net.vn/KISS-FM-UK
 
+#EXTINF:-1 group-title="🇺🇸 USA Televison" tvg-logo="https://foxcareers.com/Content/img2019/OurBrands/logo-lg-fox-business-network.png?v=1", Fox Business Network
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 USA Televison" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", Fox Sports
+https://lnc-fox-sports2.tubi.video/index.m3u8
