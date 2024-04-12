@@ -32,9 +32,6 @@ https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_1xtra/bbc_1xtra.ism
 #EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://media.info/l/o/3/395.1655053740.png", BBC Radio Manchester
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png", KISS FM UK
-https://s.net.vn/KISS-FM-UK
-
 #EXTINF:-1 group-title="🇬🇧 UK" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/services/bbc_london/blocks-colour-black_1920x1080.png",BBC London
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8
 
@@ -43,4 +40,7 @@ https://aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="🇺🇸 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (SV2)
 https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d28abf5a10/aac_adts/96k/pri-aac_adts96-1712849145-5990-15247.aac
+
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png", KISS FM UK
+https://s.net.vn/KISS-FM-UK
 
