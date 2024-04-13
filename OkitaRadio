@@ -49,3 +49,28 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇸 USA Televison" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", Fox Sports
 #https://lnc-fox-sports2.tubi.video/index.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a1/Man_Utd_FC_.svg",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0b
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=84&extension=ts&play_token=waLxJFq8yU
+#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png", Sky Sports FOOTBALL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163956&extension=ts&play_token=CvpT2mFr7S
+
+#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png", TNT Sport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/28946
+#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png", TNT Sport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/28945
+
+#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1200px-Sky_Sport_Tennis.svg.png", Sky Sport Tennis
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/29070
+
+#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png", SKY SPORT F1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=108&extension=ts&play_token=dlp4N9jzjs
