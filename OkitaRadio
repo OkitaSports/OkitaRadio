@@ -74,3 +74,7 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/29070
 #EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png", SKY SPORT F1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=108&extension=ts&play_token=dlp4N9jzjs
+
+#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png", TNT Sport 1 (dự phòng)
+#EXTVLCOPT:http-user-agent=Ditmevmt
+http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/28946
