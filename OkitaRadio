@@ -51,6 +51,7 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 #https://lnc-fox-sports2.tubi.video/index.m3u8
 
 #EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a1/Man_Utd_FC_.svg",MUTV
+#EXTVLCOPT:http-user-agent=Ditmevmt
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
