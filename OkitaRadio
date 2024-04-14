@@ -61,7 +61,7 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 
 #EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a1/Man_Utd_FC_.svg",MUTV
 #EXTVLCOPT:http-user-agent=Ditmevmt
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+https://hqth.me/Okita-MUTV
 
 #EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png", Sky Sports FOOTBALL
 #EXTVLCOPT:http-user-agent=DitmeVMT
