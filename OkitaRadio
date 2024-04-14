@@ -54,12 +54,21 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTVLCOPT:http-user-agent=Ditmevmt
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0b
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=84&extension=ts&play_token=waLxJFq8yU
 #EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png", Sky Sports FOOTBALL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163956&extension=ts&play_token=CvpT2mFr7S
+#EXTVLCOPT:http-user-agent=DitmeVMT
+https://hqth.me/OkitaSky1
+
+#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=DitmeVMT
+https://hqth.me/OkitaSky2
+
+#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==", Sky Sports EPL
+#EXTVLCOPT:http-user-agent=DitmeVMT
+https://hqth.me/OkitaSky3
+
+#EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/bltc98e68ce0fdb9494/603d748df9273750f1ac95bc/Cinema_ModalChannelLogo.png", Sky Cine
+#EXTVLCOPT:http-user-agent=DitmeVMT
+https://hqth.me/OkitaSkycINE
 
 #EXTINF:-1 group-title="🇬🇧 UK Televison" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png", TNT Sport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
