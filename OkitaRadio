@@ -70,12 +70,16 @@ https://hqth.me/Oki-Sk7
 https://hqth.me/OkitaSK8
 
 
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", Bein Sports 2 Pháp
+#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png", Bein Sports 2 Pháp
 #EXTVLCOPT:http-user-agent=DitmeVMT
+https://hqth.me/beinphap
 
 
 #EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/640px-WWE_official_logo.svg.png", WWE Network
 https://hqth.me/Okita-WWE
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network
+https://hqth.me/tubannetwork
 
 
 #EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a1/Man_Utd_FC_.svg",MUTV
@@ -93,6 +97,11 @@ https://hqth.me/OkitaSky2
 #EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==", Sky Sports EPL
 #EXTVLCOPT:http-user-agent=DitmeVMT
 https://hqth.me/OkitaSky3
+
+#EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Viaplay_Sports_1_Stacked.svg/revision/latest?cb=20221102110507", Viaplay
+#EXTVLCOPT:http-user-agent=DitmeVMT
+https://hqth.me/vplay1
+
 
 #EXTINF:-1 group-title="🇬🇧 UK Televison 24/7" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/bltc98e68ce0fdb9494/603d748df9273750f1ac95bc/Cinema_ModalChannelLogo.png", Sky Cine
 #EXTVLCOPT:http-user-agent=DitmeVMT
