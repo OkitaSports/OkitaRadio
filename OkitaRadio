@@ -34,6 +34,13 @@ https://hqth.me/Oki-Sk7
 #EXTVLCOPT:http-user-agent=DitmeVMT
 https://hqth.me/OkitaSK8
 
+#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg", Okita sự kiện F1 (Link 1)
+#EXTVLCOPT:http-user-agent=DitmeVMT
+https://hqth.me/OkitaSK-F1-Link1
+
+#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg", Okita sự kiện F1 (Link 2)
+#EXTVLCOPT:http-user-agent=DitmeVMT
+https://hqth.me/OkitaSK-F1-Link2
 
 #EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png", Bein Sports 2 Pháp
 #EXTVLCOPT:http-user-agent=DitmeVMT
