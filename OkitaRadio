@@ -86,6 +86,28 @@ https://hqth.me/FoxAU503
 #EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png", FOX 504 AU
 https://hqth.me/FoxAU504
 
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://tv.assets.pressassociation.io/393f2a91-63b4-5f71-8cb2-158ef548c6f9.png", ITV 1 UK
+https://hqth.me/ITV1-UK
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV2_Logo_2013.svg/2560px-ITV2_Logo_2013.svg.png", ITV 2 UK
+https://hqth.me/ITV2-UK
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png", ITV 3 UK
+https://hqth.me/ITV3-UK
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1200px-ITV4_logo_%282022%29.svg.png", ITV 4 UK
+https://hqth.me/ITV4-UK
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://storage.sbcevents.com/assets/SBC-white%402x.png", CBS USA
+https://hqth.me/SBC-USA
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://storage.sbcevents.com/assets/SBC-white%402x.png", CBS Sports Network USA
+https://hqth.me/SBC-Sports
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Polsat_News_Poziome_2021.svg/2560px-Polsat_News_Poziome_2021.svg.png", Polsat News (Poland)
+https://hqth.me/PolandNews
+
+
+
 #EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png", Sky Sports FOOTBALL
 #EXTVLCOPT:http-user-agent=DitmeVMT
 https://hqth.me/OkitaSky1
@@ -98,7 +120,7 @@ https://hqth.me/OkitaSky2
 #EXTVLCOPT:http-user-agent=DitmeVMT
 https://hqth.me/OkitaSky3
 
-#EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Viaplay_Sports_1_Stacked.svg/revision/latest?cb=20221102110507", Viaplay
+#EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Viaplay_Sports_1_Stacked.svg/revision/latest?cb=20221102110507", Viaplay 1
 #EXTVLCOPT:http-user-agent=DitmeVMT
 https://hqth.me/vplay1
 
