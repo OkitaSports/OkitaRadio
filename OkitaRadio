@@ -1,18 +1,5 @@
 
-
 #EXTM3U
-
-Lịch phát sóng thể thao rạng sáng mai và sáng mai (17/04) :
-UEFA CHAMPIONS LEAGUE
-+ 02:00 - 17/04 : Barcelona v PSG | TNT Sports 1 ; Astro Supersports1 ; Okita Sự Kiện 3 (90P) ; Okita Sự kiện 1 (re-stream FPT)
-+ 02:00 - 17/04 : Borussia Dortmund vs Atlético Madrid | TNT Sports 2 ; Match Football 1 Russia 
-EFL :
-+ 02:00 - 17/04 : Southampton vs Preston North End | Sky Sports Main Event
-WWE :
-+ 07:00 - 17/04 : WWE NXT | USA Network 
-NBA :
-+ 06:30 - 17/04 : New Orleans Pelicans vs Los Angeles Lakers | TNT Sports 1
-+ 09:00 - 17/04 : Sacramento Kings vs Golden State Warriors | TNT Sports 1 ; Sport TV1 Portugal ; Movistar Deportes Spain
 
 #EXTINF:-1 group-title="Okita in4" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", In4
 https://hqth.me/In4-Oki
@@ -287,4 +274,5 @@ https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d2
 
 #EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png", KISS FM UK
 https://s.net.vn/KISS-FM-UK
+
 
