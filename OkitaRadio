@@ -1,3 +1,18 @@
+
+Lịch phát sóng thể thao rạng sáng mai và sáng mai (17/04) :
+UEFA CHAMPIONS LEAGUE
++ 02:00 - 17/04 : Barcelona v PSG | TNT Sports 1 ; Astro Supersports1 ; Okita Sự Kiện 3 (90P) ; Okita Sự kiện 1 (re-stream FPT)
++ 02:00 - 17/04 : Borussia Dortmund vs Atlético Madrid | TNT Sports 2 ; Match Football 1 Russia 
+EFL :
++ 02:00 - 17/04 : Southampton vs Preston North End | Sky Sports Main Event
+WWE :
++ 07:00 - 17/04 : WWE NXT | USA Network 
+NBA :
++ 06:30 - 17/04 : New Orleans Pelicans vs Los Angeles Lakers | TNT Sports 1
++ 09:00 - 17/04 : Sacramento Kings vs Golden State Warriors | TNT Sports 1 ; Sport TV1 Portugal ; Movistar Deportes Spain
+
+--------------------------
+
 #EXTM3U
 
 #EXTINF:-1 group-title="Okita in4" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", In4
@@ -165,6 +180,13 @@ https://hqth.me/hbo-Hai-USA2
 #EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cartoon_Network_logo_%281992-2010%29.svg", Cartoon Network
 https://hqth.me/CartoonNetwork
 
+#EXTINF:-1 group-title="🇵🇹 Portugal Televison 24/7" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/vy9kl11700902598.png", SportTV 1
+#EXTVLCOPT:http-user-agent=DitmeVMT
+https://hqth.me/SportsTV1-Oki
+
+#EXTINF:-1 group-title="🇪🇸 Movistar Deportes Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png", Movistar Deportes Spain
+#EXTVLCOPT:http-user-agent=DitmeVMT
+https://hqth.me/MovistarDeportesSpain-Oki
 
 #EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png", Sky Sports FOOTBALL
 #EXTVLCOPT:http-user-agent=DitmeVMT
