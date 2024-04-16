@@ -124,6 +124,10 @@ https://hqth.me/hbo-USA2
 #EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://hqth.me/hbo-USA-logo", HBO Comedy USA
 https://hqth.me/hbo-Hai-USA2
 
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cartoon_Network_logo_%281992-2010%29.svg", Cartoon Network
+https://hqth.me/CartoonNetwork
+
+
 #EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png", Sky Sports FOOTBALL
 #EXTVLCOPT:http-user-agent=DitmeVMT
 https://hqth.me/OkitaSky1
