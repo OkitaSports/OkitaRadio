@@ -53,10 +53,38 @@ https://hqth.me/Okita-WWE
 #EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network
 https://hqth.me/tubannetwork
 
-
 #EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a1/Man_Utd_FC_.svg",MUTV
 #EXTVLCOPT:http-user-agent=Ditmevmt
 https://hqth.me/Okita-MUTV
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png", FOX Sports 1
+https://hqth.me/FSports1
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png", FOX Sports 2
+https://hqth.me/FSports2
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png", FOX Soccer+
+https://hqth.me/FSoccerPlus
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png", Fox Deportes
+https://hqth.me/FDepotes
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://canvas-bridge02.tubitv.com/u8WXB5pw2ELxbjW-0_mc1aRvgwA=/400x574/smart/img.adrise.tv/259a67a9-4bad-4ae8-ad9b-e49c061f4eab.png", Fox Thời tiết
+https://hqth.me/FoxThoiTiet
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://cdn.mos.cms.futurecdn.net/97ZgRQtEGKBycHrVoTcczk.jpg", FOX Business (Fox kinh doanh)
+#EXTVLCOPT:http-user-agent=Ditmevmt
+https://hqth.me/FoxTaiChinhKinhDoan
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png", FOX 502 AU
+#EXTVLCOPT:http-user-agent=Ditmevmt
+https://hqth.me/FoxAU502
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png", FOX 503 AU
+https://hqth.me/FoxAU503
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png", FOX 504 AU
+https://hqth.me/FoxAU504
 
 #EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png", Sky Sports FOOTBALL
 #EXTVLCOPT:http-user-agent=DitmeVMT
