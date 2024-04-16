@@ -106,7 +106,23 @@ https://hqth.me/SBC-Sports
 #EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Polsat_News_Poziome_2021.svg/2560px-Polsat_News_Poziome_2021.svg.png", Polsat News (Poland)
 https://hqth.me/PolandNews
 
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1200px-Discovery_Life_logo_2016.svg.png", Discovery Life
+https://hqth.me/Discovery-Life-Meo
 
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://www.pngitem.com/pimgs/m/74-746524_discovery-channel-logo-white-hd-png-download.png", Discovery Channel
+https://hqth.me/Discovery-Meo
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://logolook.net/wp-content/uploads/2023/03/Animal_Planet_Logo_PNG12.png", Animal Planet
+https://hqth.me/Animel
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://hqth.me/hbo-USA-logo", HBO USA
+https://hqth.me/hbo-USA
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://hqth.me/hbo-USA-logo", HBO 2 USA
+https://hqth.me/hbo-USA2
+
+#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://hqth.me/hbo-USA-logo", HBO Comedy USA
+https://hqth.me/hbo-Hai-USA2
 
 #EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png", Sky Sports FOOTBALL
 #EXTVLCOPT:http-user-agent=DitmeVMT
