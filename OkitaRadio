@@ -41,37 +41,6 @@ https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv9-720p.m3u8
 #EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", Okita sự kiện
 https://hqth.me/OkitaSuKien
 
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", Okita sự kiện 1
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/OkitaSuKien1
-
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", Okita sự kiện 2
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/OkitaSuKien2
-
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", Okita sự kiện 3
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/Oki-Sk3
-
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", Okita sự kiện 5
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/Okita-SK5
-
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", Okita sự kiện 6
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/Oki-Sk6
-
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/barcelona.png", Okita sự kiện 7
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/Oki-Sk7
-
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/barcelona.png", Okita sự kiện 8
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/OkitaSK8
-
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/barcelona.png", Okita sự kiện 9
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/okitask9
 
 #EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg", Okita sự kiện F1 (Link 1)
 #EXTVLCOPT:http-user-agent=DitmeVMT
@@ -81,61 +50,6 @@ https://hqth.me/OkitaSK-F1-Link1
 #EXTVLCOPT:http-user-agent=DitmeVMT
 https://hqth.me/OkitaSK-F1-Link2
 
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png", Bein Sports 2 Pháp
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/beinphap
-
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/640px-WWE_official_logo.svg.png", WWE Network
-https://hqth.me/Okita-WWE
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network
-https://hqth.me/tubannetwork
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a1/Man_Utd_FC_.svg",MUTV
-#EXTVLCOPT:http-user-agent=Ditmevmt
-https://hqth.me/Okita-MUTV
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png", FOX Sports 1
-https://hqth.me/FSports1
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png", FOX Sports 2
-https://hqth.me/FSports2
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png", FOX Soccer+
-https://hqth.me/FSoccerPlus
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png", Fox Deportes
-https://hqth.me/FDepotes
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://canvas-bridge02.tubitv.com/u8WXB5pw2ELxbjW-0_mc1aRvgwA=/400x574/smart/img.adrise.tv/259a67a9-4bad-4ae8-ad9b-e49c061f4eab.png", Fox Thời tiết
-https://hqth.me/FoxThoiTiet
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://cdn.mos.cms.futurecdn.net/97ZgRQtEGKBycHrVoTcczk.jpg", FOX Business (Fox kinh doanh)
-#EXTVLCOPT:http-user-agent=Ditmevmt
-https://hqth.me/FoxTaiChinhKinhDoan
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png", FOX 502 AU
-#EXTVLCOPT:http-user-agent=Ditmevmt
-https://hqth.me/FoxAU502
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png", FOX 503 AU
-https://hqth.me/FoxAU503
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png", FOX 504 AU
-https://hqth.me/FoxAU504
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://tv.assets.pressassociation.io/393f2a91-63b4-5f71-8cb2-158ef548c6f9.png", ITV 1 UK
-https://hqth.me/ITV1-UK
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/ITV2_Logo_2013.svg/2560px-ITV2_Logo_2013.svg.png", ITV 2 UK
-https://hqth.me/ITV2-UK
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png", ITV 3 UK
-https://hqth.me/ITV3-UK
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1200px-ITV4_logo_%282022%29.svg.png", ITV 4 UK
-https://hqth.me/ITV4-UK
 
 #EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://storage.sbcevents.com/assets/SBC-white%402x.png", CBS USA
 https://hqth.me/SBC-USA
@@ -144,87 +58,6 @@ https://hqth.me/SBC-Sports
 
 #EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Polsat_News_Poziome_2021.svg/2560px-Polsat_News_Poziome_2021.svg.png", Polsat News (Poland)
 https://hqth.me/PolandNews
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1200px-Discovery_Life_logo_2016.svg.png", Discovery Life
-https://hqth.me/Discovery-Life-Meo
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://www.pngitem.com/pimgs/m/74-746524_discovery-channel-logo-white-hd-png-download.png", Discovery Channel
-https://hqth.me/Discovery-Meo
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://logolook.net/wp-content/uploads/2023/03/Animal_Planet_Logo_PNG12.png", Animal Planet
-https://hqth.me/Animel
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://hqth.me/hbo-USA-logo", HBO USA
-https://hqth.me/hbo-USA
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://hqth.me/hbo-USA-logo", HBO 2 USA
-https://hqth.me/hbo-USA2
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://hqth.me/hbo-USA-logo", HBO Comedy USA
-https://hqth.me/hbo-Hai-USA2
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cartoon_Network_logo_%281992-2010%29.svg", Cartoon Network
-https://hqth.me/CartoonNetwork
-
-#EXTINF:-1 group-title="🇵🇹 Portugal Televison 24/7" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/vy9kl11700902598.png", SportTV 1
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/SportsTV1-Oki
-
-#EXTINF:-1 group-title="🇪🇸 Movistar Deportes Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png", Movistar Deportes Spain
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/MovistarDeportesSpain-Oki
-
-#EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png", Sky Sports FOOTBALL
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/OkitaSky1
-
-#EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/OkitaSky2
-
-#EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==", Sky Sports EPL
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/OkitaSky3
-
-#EXTINF:-1 group-title="🇬🇧 UK Televison Event" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Viaplay_Sports_1_Stacked.svg/revision/latest?cb=20221102110507", Viaplay 1
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/vplay1
-
-
-#EXTINF:-1 group-title="🇬🇧 UK Televison 24/7" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/bltc98e68ce0fdb9494/603d748df9273750f1ac95bc/Cinema_ModalChannelLogo.png", Sky Cine
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/OkitaSkycINE
-
-#EXTINF:-1 group-title="🇬🇧 UK Televison 24/7" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png", TNT Sport 1
-#EXTVLCOPT:http-user-agent=Ditmevmt
-https://hqth.me/TNT1Oki
-
-#EXTINF:-1 group-title="🇬🇧 UK Televison 24/7" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png", TNT Sport 1 (dự phòng)
-#EXTVLCOPT:http-user-agent=Ditmevmt
-https://hqth.me/TNT1OkiDuphong
-
-#EXTINF:-1 group-title="🇬🇧 UK Televison 24/7" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png", TNT Sport 2
-#EXTVLCOPT:http-user-agent=Ditmevmt
-https://hqth.me/TNT2Oki
-
-#EXTINF:-1 group-title="🇬🇧 UK Televison 24/7" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/iwotea1701768457.png", TNT Sport 3
-#EXTVLCOPT:http-user-agent=Ditmevmt
-https://hqth.me/TNT3Oki
-
-#EXTINF:-1 group-title="🇬🇧 UK Televison 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png", TNT Sport 4
-#EXTVLCOPT:http-user-agent=Ditmevmt
-https://hqth.me/TNT4Oki
-
-
-#EXTINF:-1 group-title="🇷🇺 RU Televison Event" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/cz682u1628519810.png", Match Football 1 Russia
-https://hqth.me/Okita-Nga1
-
-#EXTINF:-1 group-title="🇷🇺 RU Televison Event" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Match%21_Futbol_2_Stacked.svg/revision/latest?cb=20221006124434", Match Football 2 Russia
-https://hqth.me/Okita-Nga2
-
-#EXTINF:-1 group-title="🇷🇺 RU Televison Event" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/69eju21628519874.png", Match Football 3 Russia
-https://hqth.me/Okita-Nga3
-
 
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
