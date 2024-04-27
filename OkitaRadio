@@ -41,25 +41,6 @@ https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv9-720p.m3u8
 #EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://lh6.googleusercontent.com/dAKqiBpPcjxqYDphXcXgjzxlWYISUy0JSKuxpC5LNvR9tu_eIWy1i-2_zHtxoSZufEMWH4UaQ2xMFWj8N_mVYYHIaDgMQeHuLJv0gPkxU7C4G-z-Yz69xSqLA8nkoCep0Q=w1280", Okita sự kiện
 https://hqth.me/OkitaSuKien
 
-
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg", Okita sự kiện F1 (Link 1)
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/OkitaSK-F1-Link1
-
-#EXTINF:-1 group-title="Okita Sự kiện" tvg-logo="https://www.formula1.com/etc/designs/fom-website/images/f1_logo.svg", Okita sự kiện F1 (Link 2)
-#EXTVLCOPT:http-user-agent=DitmeVMT
-https://hqth.me/OkitaSK-F1-Link2
-
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://storage.sbcevents.com/assets/SBC-white%402x.png", CBS USA
-https://hqth.me/SBC-USA
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://storage.sbcevents.com/assets/SBC-white%402x.png", CBS Sports Network USA
-https://hqth.me/SBC-Sports
-
-#EXTINF:-1 group-title="Kênh quảng bá quốc tế 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Polsat_News_Poziome_2021.svg/2560px-Polsat_News_Poziome_2021.svg.png", Polsat News (Poland)
-https://hqth.me/PolandNews
-
-
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
